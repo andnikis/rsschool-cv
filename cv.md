@@ -10,6 +10,7 @@ As a frontend developer, I am committed to continuous improvement and expanding 
 * CSS3, HTML5
 * Figma, Zeplin
 * SQL
+* CSS frameworks
 
 ## English language
 
